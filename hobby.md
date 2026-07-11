@@ -6,7 +6,7 @@ color: "#d08770"
 updatedAt: 10.17.2024
 ---
 These are my main hobbies right now:
-- [[3d-printers]]
+- [[3d-printing]]
 - [[manga]]
 - Mechanical keyboards
 - [[headphones|Headphones and audio gear]] 
