@@ -1,6 +1,6 @@
 ---
 title: Hobby
-description: I have some hobbies
+description: My main interests right now
 pubDate: 10.12.2024
 color: "#d08770"
 updatedAt: 10.17.2024
@@ -8,6 +8,5 @@ updatedAt: 10.17.2024
 These are my main hobbies right now:
 - [[3d-printing]]
 - [[manga]]
-- Mechanical keyboards
 - [[headphones|Headphones and audio gear]] 
 - Simracing
